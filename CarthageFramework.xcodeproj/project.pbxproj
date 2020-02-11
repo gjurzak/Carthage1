@@ -50,19 +50,19 @@
 		37BB853523F313F600A3FC01 /* CarthageFramework */ = {
 			isa = PBXGroup;
 			children = (
-				37BB854023F3142800A3FC01 /* Source */,
+				37BB854023F3142800A3FC01 /* Sources */,
 				37BB853623F313F600A3FC01 /* CarthageFramework.h */,
 				37BB853723F313F600A3FC01 /* Info.plist */,
 			);
 			path = CarthageFramework;
 			sourceTree = "<group>";
 		};
-		37BB854023F3142800A3FC01 /* Source */ = {
+		37BB854023F3142800A3FC01 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				37BB853E23F3142000A3FC01 /* Greg.swift */,
 			);
-			path = Source;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
