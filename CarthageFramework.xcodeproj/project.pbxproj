@@ -16,6 +16,7 @@
 		37BB853623F313F600A3FC01 /* CarthageFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarthageFramework.h; sourceTree = "<group>"; };
 		37BB853723F313F600A3FC01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37BB853E23F3142000A3FC01 /* Greg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Greg.swift; sourceTree = "<group>"; };
+		37CEFF9A23F31F6500680200 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +33,7 @@
 		37BB852923F313F600A3FC01 = {
 			isa = PBXGroup;
 			children = (
+				37CEFF9A23F31F6500680200 /* Package.swift */,
 				37BB853523F313F600A3FC01 /* CarthageFramework */,
 				37BB853423F313F600A3FC01 /* Products */,
 			);
